@@ -13,6 +13,8 @@ You can find more ASP.NET 5 resources here:
  * [ASP.NET 5 section on ASP.NET](http://www.asp.net/vnext)
  * [The Home directory in the ASP.NET GitHub org](https://github.com/aspnet/Home/)
 
+![logo](https://github.com/friism/aspnet-docker/raw/master/logo.png)
+
 # How to use this image
 
 You can use the `onbuild` image to create images that run ASP.NET 5 web apps with the [Kestrel web server](https://github.com/aspnet/KestrelHttpServer), using Mono.
