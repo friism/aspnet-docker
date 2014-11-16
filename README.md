@@ -2,6 +2,7 @@
 
 * [`latest` _(Dockerfile)_](1.0.0-beta1/Dockerfile)
 * [`1.0.0-beta1` _(Dockerfile)_](1.0.0-beta1/Dockerfile)
+* [`1.0.0-beta1-onbuild` _(Dockerfile)_](1.0.0-beta1/onbuild/Dockerfile)
 
 # What is ASP.NET 5?
 
