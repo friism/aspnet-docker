@@ -21,7 +21,7 @@ You can use the `onbuild` image to create images that run ASP.NET 5 web apps wit
 
 To run the [HelloWeb](https://github.com/aspnet/Home/tree/master/samples/HelloWeb) project from the ASP.NET 5 samples, place this Dockerfile in the HelloWeb project folder:
 
-    FROM friism/aspnet:1.0.0-beta1-onbuild
+    FROM friism/aspnet-docker:1.0.0-beta1-onbuild
 
     EXPOSE 5004
 
