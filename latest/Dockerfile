@@ -1,4 +1,4 @@
-FROM mono:4.0.1
+FROM friism/mono:alpha
 
 ENV DNX_VERSION latest
 ENV DNX_PATH /root/.dnx
